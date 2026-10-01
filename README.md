@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub.</h1>
 
-<br> 
+<br>
 
 <p align="center">
   <picture>
