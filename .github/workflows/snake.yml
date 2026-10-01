@@ -18,7 +18,7 @@ jobs:
       - name: Generate GitHub Contributions Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.Rodrilf }}
+          github_user_name: Rodrilf
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
