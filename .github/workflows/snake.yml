@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: Rodrilf
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?palette=github
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Deploy to Output Branch
