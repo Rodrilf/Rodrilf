@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,idea,vscode,linux,aws,docker,springboot"/>
+  <img src="https://skillicons.dev/icons?i=github,idea,vscode,linux,aws,docker,spring"/>
 </p>
