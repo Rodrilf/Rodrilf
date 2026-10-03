@@ -12,6 +12,11 @@
 
 
 <h2 align="center">Languajes and Tools</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git,github,idea,vscode,linux,aws,docker"/>
+  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,idea,vscode,linux,aws,docker,springboot"/>
 </p>
