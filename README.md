@@ -14,9 +14,9 @@
 <h2 align="center">Languajes and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git"/>
+  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git,markdown"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,idea,vscode,linux,aws,docker,spring"/>
+  <img src="https://skillicons.dev/icons?i=github,idea,vscode,linux,aws,docker,spring,mongodb"/>
 </p>
