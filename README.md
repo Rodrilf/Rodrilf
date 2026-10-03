@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub.</h1>
+<h1 align="center">Welcome to my GitHub</h1>
 
 <br>
 
@@ -10,8 +10,8 @@
 </picture>
 </p>
 
-<
 
+<h2 align="center">Languajes and Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git,github,idea,vscode,linux,aws" />
 </p>
