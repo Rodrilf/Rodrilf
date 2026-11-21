@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="/img/catedral_roda_transparente.svg"
+  <img src="/img/rdi.png"
        width="480"
        alt="Catedral de Roda de Isábena">
 </p>
