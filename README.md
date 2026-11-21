@@ -10,7 +10,7 @@
 </picture>
 </p>
 
-
+<!--
 <h2 align="center">Languajes and Tools</h2>
 
 <p align="center">
@@ -20,3 +20,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,idea,vscode,linux,aws,docker,spring,mongodb"/>
 </p>
+-->
